@@ -1,6 +1,6 @@
 {
   "name": "airbnb-prettier-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Prettier configuration based on the Airbnb JavaScript style guide",
   "keywords": [
     "airbnb",

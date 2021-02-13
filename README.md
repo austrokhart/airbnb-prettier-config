@@ -1,5 +1,7 @@
 # airbnb-prettier-config
 
+> This package has been deprecated. Please use [prettier-config-airbnb](https://github.com/austrokhart/prettier-config-airbnb) instead
+
 A [Prettier](https://prettier.io) configuration based on the [Airbnb JavaScript style guide](https://github.com/airbnb/javascript)
 
 ## Installation
